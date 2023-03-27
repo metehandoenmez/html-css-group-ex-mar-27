@@ -24,7 +24,7 @@ Style the "body-container" div:
  - make it display grid.
  - define your columns and rows using grid-template-columns and grid-template-rows
  - aside tag should be 40% the size of the article tag.
-  - add a gap between the items in the grid, using grid-gap, of 30px;
+  - add a gap between the items in the grid, using gap, of 30px;
  - header an footer should be of height 80px
 
 Header, footer should have background-color #02bfb1;
