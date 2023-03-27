@@ -18,6 +18,7 @@ Inside of body, add a div with id "body-container";
  - create a footer tag, with an h4 tag with text "Footer" inside of it. Make sure the Footer text is centered
 
 Style the "body-container" div:
+ - background-color #c4ebf9
  - add a min-width: 100%; to it
  - add padding: 35px;
  - make it display grid.
@@ -26,7 +27,11 @@ Style the "body-container" div:
   - add a gap between the items in the grid, using grid-gap, of 30px;
  - header an footer should be of height 80px
 
- 
- 
+Header, footer should have background-color #02bfb1;
+Aside should have background color #6edb6e;
+Article tag should have background color #fbb04c;
+
+
+
 
 
